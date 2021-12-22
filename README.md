@@ -1,4 +1,4 @@
-### Hi There 👋  Here Is What Working I'm On 
+### Hi There 👋  Here Is What I'm Working On 
 
 - 🔭 I’m currently working as a software engineer at Huawei.
 - 🌱 I’m currently developing a message broker for opensource when I have time, also learning new technologies.
