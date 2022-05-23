@@ -13,8 +13,8 @@
 
 
 # Experience
-Software Engineer at Hexad Gmbh
-Software Engineer at Huawei
-Software Engineer at Etiya
+- Software Engineer at Hexad Gmbh
+- Software Engineer at Huawei
+- Software Engineer at Etiya
 
 
