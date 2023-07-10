@@ -13,6 +13,7 @@ I am a self-motivated software engineer who always tries to improve himself
 
 
 # Experience
+- Software Engineer at Cariad
 - Software Engineer at Hexad Gmbh
 - Software Engineer at Huawei
 - Software Engineer at Etiya
